@@ -1,0 +1,6 @@
+Changelog for vueExtra.
+
+1.0.0-pl
+==============
+- Removed ExtJs, added Vue
+- Disabled "office"
